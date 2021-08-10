@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **qbao0603@gmail.com**
 
-- ⚡ Fun fact **I'm a good football teammate**
+- ⚡ Fun fact **Panna gives me more pleasure than scoring**
 
 
 <h3 align="left">Languages and Tools:</h3>
