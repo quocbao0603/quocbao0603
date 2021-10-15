@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BigO Coding**
 
-- 👯 I’m looking to collaborate on **an Blockchain project**
+<!--- 👯 I’m looking to collaborate on **an Blockchain project**-->
 
 - 🤝 I’m looking for help with **an Blockchain project**
 
