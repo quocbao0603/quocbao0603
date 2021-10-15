@@ -5,7 +5,7 @@
 
 <!--- 👯 I’m looking to collaborate on **an Blockchain project**-->
 
-- 🤝 I’m looking for help with **an Blockchain project**
+<!---- 🤝 I’m looking for help with **an Blockchain project**-->
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
