@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quoc-Bao</h1>
 <h3 align="center">A Junior in University of Science, VietNam. I like football but the life leads me to become a coder :).</h3>
 
-- 🔭 I’m currently working on **BigO Coding**
+- 🔭 I’m currently working on **BigO Coding**, **Whydah - KardiaChain**
 
 <!--- 👯 I’m looking to collaborate on **an Blockchain project**-->
 
