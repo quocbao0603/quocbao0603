@@ -7,7 +7,7 @@
 
 <!---- 🤝 I’m looking for help with **an Blockchain project**-->
 
-- 💬 Ask me about **Data Structures and Algorithms, Smartcontract (Solidity) **
+- 💬 Ask me about **Data Structures and Algorithms, Smartcontract (Solidity)**
 
 - 📫 How to reach me **qbao0603@gmail.com**
 
